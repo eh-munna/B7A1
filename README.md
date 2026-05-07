@@ -47,6 +47,6 @@ node solutions.js
 Check out my short articles on core TypeScript concepts:
 
 - [Blog 1: Why `any` is a "type safety hole" and understanding `unknown`](./blog-1.md)
-- [Blog 2: (Add your title for blog 2 here)](./blog-2.md)
+- [Blog 2: How Generics allow you to build reusable components and functions](./blog-2.md)
 
 You can view [Blog 1](./blog-1.md) and [Blog 2](./blog-2.md) directly in your code editor (like VS Code) or on GitHub as well.
